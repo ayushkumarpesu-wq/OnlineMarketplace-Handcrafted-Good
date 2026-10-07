@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Handmade Wooden Bowl">
+  <defs>
+    <linearGradient id="bg1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f5efe8"/>
+      <stop offset="100%" stop-color="#e9d5b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg1)"/>
+  <ellipse cx="300" cy="250" rx="170" ry="120" fill="#9c6b3f"/>
+  <ellipse cx="300" cy="255" rx="145" ry="90" fill="#b77746"/>
+  <path d="M155 260c30 85 360 85 390 0v55c0 58-83 106-195 106S155 372 155 314v-54Z" fill="#7a4e2c"/>
+  <path d="M200 195c24-17 49-26 100-26 52 0 76 9 100 26" stroke="#f0d0a3" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <circle cx="220" cy="205" r="12" fill="#f5d7a8" opacity="0.8"/>
+  <circle cx="380" cy="205" r="12" fill="#f5d7a8" opacity="0.8"/>
+  <circle cx="300" cy="180" r="16" fill="#f5d7a8" opacity="0.7"/>
+  <path d="M170 318c62 20 175 28 260 0" stroke="#e7c5a0" stroke-width="10" fill="none" stroke-linecap="round"/>
+</svg>

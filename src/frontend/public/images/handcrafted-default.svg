@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Handcrafted Product">
+  <defs>
+    <linearGradient id="bgDefault" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f8eedf"/>
+      <stop offset="100%" stop-color="#d7e7d3"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bgDefault)"/>
+  <circle cx="300" cy="220" r="120" fill="#d8b07a" opacity="0.9"/>
+  <rect x="180" y="290" width="240" height="160" rx="28" fill="#a66d4e"/>
+  <path d="M220 175c28-32 60-48 80-48s52 16 80 48" stroke="#f3dcb5" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M220 350c40 22 72 30 80 30s40-8 80-30" stroke="#f2d9ab" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <circle cx="300" cy="220" r="16" fill="#f7ebd8"/>
+</svg>

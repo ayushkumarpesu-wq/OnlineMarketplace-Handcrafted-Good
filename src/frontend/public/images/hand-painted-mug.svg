@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Hand-painted Mug">
+  <defs>
+    <linearGradient id="bg4" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f8f1ea"/>
+      <stop offset="100%" stop-color="#d7e4d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg4)"/>
+  <ellipse cx="300" cy="500" rx="170" ry="34" fill="#c4d1c0"/>
+  <path d="M180 190h200c32 0 58 26 58 58v110c0 60-47 109-106 109H228c-59 0-106-49-106-109V248c0-32 26-58 58-58Z" fill="#f7f2ea" stroke="#c9b7a0" stroke-width="8"/>
+  <path d="M438 225h40c32 0 58 26 58 58v46c0 28-23 51-51 51h-47v-155Z" fill="#f2eedf" stroke="#c9b7a0" stroke-width="8"/>
+  <path d="M202 230c26-22 66-34 98-34s72 12 98 34" stroke="#d68e73" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M220 300c20 16 40 22 80 22 40 0 60-6 80-22" stroke="#b3d07c" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M220 330c20 15 42 22 80 22 38 0 60-7 80-22" stroke="#d9b14e" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <circle cx="260" cy="260" r="12" fill="#de8e7d"/>
+  <circle cx="320" cy="260" r="10" fill="#e0bf5c"/>
+  <circle cx="350" cy="310" r="11" fill="#8dbb7d"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Ceramic Vase">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8f0ea"/>
+      <stop offset="100%" stop-color="#d3c7b1"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg3)"/>
+  <ellipse cx="300" cy="510" rx="180" ry="42" fill="#c7b59e" opacity="0.7"/>
+  <path d="M265 120h70l20 70c15 54 25 92 25 160 0 72-50 140-115 140s-115-68-115-140c0-68 10-106 25-160l20-70h70Z" fill="#d9b98f"/>
+  <path d="M245 120h110v40H245z" fill="#c28d5b"/>
+  <path d="M230 180c30 32 58 44 70 44 12 0 40-12 70-44" stroke="#f5e7d6" stroke-width="8" fill="none"/>
+  <path d="M222 240c34 20 56 33 78 33s44-13 78-33" stroke="#f2d6af" stroke-width="10" fill="none"/>
+  <path d="M250 330c12 29 20 54 20 70 0 26-20 58-20 58s-20-32-20-58c0-16 8-41 20-70Z" fill="#b57b4a" opacity="0.8"/>
+  <path d="M350 330c-12 29-20 54-20 70 0 26 20 58 20 58s20-32 20-58c0-16-8-41-20-70Z" fill="#b57b4a" opacity="0.8"/>
+  <circle cx="300" cy="210" r="12" fill="#f5d7a8" opacity="0.7"/>
+</svg>
